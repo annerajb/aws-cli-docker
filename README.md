@@ -13,6 +13,7 @@
 
 
 # Description
+Updated for downloading the latest version of AWS CLI
 
 Docker container with the AWS CLI installed.
 
